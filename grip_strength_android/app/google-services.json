@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241476637258",
+    "project_id": "grip-streght",
+    "storage_bucket": "grip-streght.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241476637258:android:a140d06de6ae9e91a68cb3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241476637258-fl5s6a2tl0pnk1fk29f5tcd3cug9rjur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWOxvdlK6F9Ua2uhKTZUsJLQOgfl4YHiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241476637258-fl5s6a2tl0pnk1fk29f5tcd3cug9rjur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
